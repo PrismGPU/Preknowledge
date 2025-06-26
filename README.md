@@ -6,7 +6,7 @@
 
 1、图形学最好的补充知识的课程是通过《[GAMES101](https://www.bilibili.com/video/BV1X7411F744/?spm_id_from=333.337.search-card.all.click&vd_source=789ca485118ffcb40f218817d111e55e)》但是这门课程对于大一大二的本科生可能具有不小的难度，当然如果你是卷王除外。如果你没有学过线性代数或者线性代数掌握的并不深刻，那么我十分建议你的前导课程从《[线性代数](https://www.bilibili.com/video/av6731067/?p=4&vd_source=789ca485118ffcb40f218817d111e55e)》开始。
 
-2、GAMES101的学习建议是光线追踪之前的所有章节，学习方式是每天一章，并且当天将作业做一遍，如果一天做不完，那么就做完作业在开始下一章节，关于作业在哪里我就不在这里指定了，在GitHub之类的平台上由很多仓库。那么如果你觉得你并不是很理解课程以及作业，那么我建议你从虎书上找答案《[Fundamentals-Of-Computer-Graphics-5th-CN](./eBook/Fundamentals of Computer Graphics 3rd ed. - P. Shirley, S. Marschner (CRC, 2009) WW.pdf)》，当你做完光栅化以及光栅化之前的作业你就可以的到一个Soft Shader 软光栅器了。
+2、GAMES101的学习建议是光线追踪之前的所有章节，学习方式是每天一章，并且当天将作业做一遍，如果一天做不完，那么就做完作业在开始下一章节，关于作业在哪里我就不在这里指定了，在GitHub之类的平台上由很多仓库。那么如果你觉得你并不是很理解课程以及作业，那么我建议你从虎书上找答案《[Fundamentals-Of-Computer-Graphics-5th-CN](./eBook/Fundamentals_of_Computer_Graphics.pdf)》，当你做完光栅化以及光栅化之前的作业你就可以的到一个Soft Shader 软光栅器了。
 
 ### 备注：
 
